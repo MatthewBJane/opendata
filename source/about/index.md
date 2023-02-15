@@ -1,5 +1,5 @@
 ---
-title: About OpenData
+title: About OpenSynthesis
 date: 2023-02-15 00:00:00
 ---
 
@@ -12,10 +12,10 @@ The goal of this project is simply to make it easier for researchers to find and
 - Re-anal
 - Create meta-analysis demonstrations for teaching
 
-<h2 style="margin: 1em 0em 0.5em 0em">What is the scope of OpenData?</h2>
+<h2 style="margin: 1em 0em 0.5em 0em">What is the scope of OpenSynthesis?</h2>
 The scope of this project is to catalogue any and all open datasets involving experimental or cognitive tasks (e.g., Stroop, delay discounting, 2-arm bandits). Datasets involving more naturalistic behaviors are also welcomed. The only firm requirement is that trial-level data must be available.
 
-<h2 style="margin: 1em 0em 0.5em 0em">Who maintains OpenData?</h2>
+<h2 style="margin: 1em 0em 0.5em 0em">Who maintains OpenSynthesis?</h2>
 This project is maintained by <a href="https://matthewbjane.github.io" target="_blank">Matthew B. Jané</a> with help from other members of the <a href="https://nivlab.princeton.edu" target="_blank">SHARP Lab</a>.
 
 <h2 style="margin: 1em 0em 0.5em 0em">How can I add a dataset?</h2>
