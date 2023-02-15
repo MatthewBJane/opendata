@@ -3,7 +3,7 @@ title: About OpenSynthesis
 date: 2023-02-15 00:00:00
 ---
 
-OpenData is a database of publicly available meta-analytic datasets. To browse the database, click on the links above or use the search bar at the top-right of this page.
+OpenSynthesis is a database of publicly available meta-analytic datasets. To browse the database, click on the links above or use the search bar at the top-right of this page.
 
 <h2 style="margin: 1em 0em 0.5em 0em">What is the goal of OpenSynthesis?</h2>
 The goal of this project is simply to make it easier for researchers to find and use publicly available meta-analytic (i.e., effect size) data as part of research. There's already so much out there that can be used to:
