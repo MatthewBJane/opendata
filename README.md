@@ -1,4 +1,4 @@
-# OpenData
+# OpenSynthesis
 
 A collection of publicly available behavioral datasets maintained by the Niv lab.
 
