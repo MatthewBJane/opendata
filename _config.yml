@@ -7,7 +7,7 @@ title: OpenSynthesis
 subtitle: ''
 description: A collection of publicly available meta-analytic datasets
 keywords:
-author: Niv Lab
+author: Matthew B Jané
 language: en
 timezone: ''
 
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: OpenData
+theme: OpenSynthesis
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
