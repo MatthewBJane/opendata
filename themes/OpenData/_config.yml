@@ -5,8 +5,8 @@ description: A collection of publicly available meta-analytic databases
 
 # icon
 favicon: /images/favicon.webp
-avatar: /images/logo.webp
-logo_dir: /images/logo.webp
+avatar: /images/logo.jpg
+logo_dir: /images/logo.jpg
 logo_style: width:175px;
 
 copyright:
