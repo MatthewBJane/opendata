@@ -12,7 +12,7 @@ The goal of this project is simply to make it easier for researchers to find and
 - Assess new statistical methods with existing datasets
 - Update previously published meta-analyses
 - Conduct meta-meta-analyses (or meta-reviews)
-- Use example meta-analytic databases for pedogogical demonstrations
+- Provide meta-analysis examples meta-analytic for pedogogical purposes
 
 <h2 style="margin: 1em 0em 0.5em 0em">What is the scope of OpenSynthesis?</h2>
 The scope of this project is to catalogue any and all open meta-analytic databases related to, generally, psychological sciences. The only firm requirement is that each database is a synthesis of multiple studies.
