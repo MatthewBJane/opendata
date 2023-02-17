@@ -18,7 +18,7 @@ The goal of this project is simply to make it easier for researchers to find and
 The scope of this project is to catalogue any and all open meta-analytic databases related to, generally, psychological sciences. The only firm requirement is that each database is a synthesis of multiple studies.
 
 <h2 style="margin: 1em 0em 0.5em 0em">Who maintains OpenSynthesis?</h2>
-This project is maintained by <a href="https://matthewbjane.github.io" target="_blank">Matthew B. Jané</a> with help from <a href="https://szorowi1.github.io" target="_blank">Sam Zorowitz</a>.
+This project is maintained by <a href="https://matthewbjane.github.io" target="_blank">Matthew B. Jané</a> with help from undergraduate lead, Deborah Kyerematen and others at the <a href="https://sharp.uconn.edu/" target="_blank">SHARP lab's</a> quantitative team.
 
 <h2 style="margin: 1em 0em 0.5em 0em">How can I add a dataset?</h2>
 Please see the <a href="../contribute">contributing</a> page.
