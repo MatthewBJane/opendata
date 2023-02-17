@@ -1,7 +1,7 @@
 ---
 title: Anglim et al. (2022)
 subtitle: 'Personality and Intelligence: A Meta-Analysis'
-date: 2022/05/18
+date: 2022/01/01
 authors:
 - Anglim, Jeromy J
 - Dunlop, Patrick D
