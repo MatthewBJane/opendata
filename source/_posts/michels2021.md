@@ -1,7 +1,7 @@
 ---
 title: Michels and Schulze (2019)
 subtitle: 'Emotional intelligence and the dark triad: A meta-analysis'
-date: 2020/04/28
+date: 2019/01/01  
 authors:
 - Michels, Moritz
 - Schulze, Ralf
