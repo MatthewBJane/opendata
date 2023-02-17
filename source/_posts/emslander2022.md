@@ -1,7 +1,7 @@
 ---
 title: Emslander and Scherer (2022)
 subtitle: 'The Relation Between Executive Functions and Math Intelligence in Preschool Children: A Systematic Review and Meta-Analysis'
-date: 2020/04/28
+date: 2022/01/01
 authors:
 - Emslander, Valentin
 - Scherer, Ronny
