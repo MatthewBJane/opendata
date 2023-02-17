@@ -1,7 +1,7 @@
 ---
 title: Wiernik and Kostal (2019)
 subtitle: 'Protean and boundaryless career orientations: A critical review and meta-analysis'
-date: 2019/10/04
+date: 2019/01/01
 authors:
 - Wiernik, Brenton M
 - Kostal, Jack W
