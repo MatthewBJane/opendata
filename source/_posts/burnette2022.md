@@ -1,7 +1,7 @@
 ---
 title: Burnette et al. (2022)
 subtitle: 'A Systematic Review and Meta-Analysis of Growth Mindset Interventions: For Whom, How, and Why Might Such Interventions Work?'
-date: 2022/10/04
+date: 2022/01/01
 authors:
 - Burnette, Jeni L
 - Billingsly, Joseph
