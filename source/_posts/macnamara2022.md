@@ -1,7 +1,7 @@
 ---
 title: Macnamara and Burgoyne (2022)
 subtitle: 'Do Growth Mindset Interventions Impact Students’ Academic Achievement? A Systematic Review and Meta-Analysis with Recommendations for Best Practices'
-date: 2018/10/04
+date: 2022/01/01
 authors:
 - Macnamara, Brooke N
 - Burgoyne, Alexander P
