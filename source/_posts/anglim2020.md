@@ -1,7 +1,7 @@
 ---
 title: Anglim et al. (2020)
 subtitle: 'Predicting Psychological and Subjective Well-Being from Personality: A Meta-Analysis'
-date: 2022/01/01
+date: 2020/01/01
 authors:
 - Anglim, Jeromy
 - Horwood, Sharon
