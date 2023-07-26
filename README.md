@@ -10,7 +10,7 @@ Have a dataset to submit? Fill out this form: https://forms.gle/N87Dqhs73vbfoPec
 
 ## Contributing
 
-To contribute to OpenSynthesis, please see the [contributing](https://MatthewBJane.github.io/opensynthesis/contribute) page. 
+To contribute to OpenSynthesis, submit a pull request or email me an edited version of the markdown file located in `templates/post_template.md` (email: matthew.jane@uconn.edu). Please see the [contributing](https://MatthewBJane.github.io/opensynthesis/contribute) page. 
 
 ### Previewing the demos page locally
 
