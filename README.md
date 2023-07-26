@@ -10,7 +10,14 @@ Have a dataset to submit? Fill out this form: https://forms.gle/N87Dqhs73vbfoPec
 
 ## Contributing
 
-To contribute to OpenSynthesis, submit a pull request or email me an edited version of the markdown file located in `templates/post_template.md` (email: matthew.jane@uconn.edu). Please see the [contributing](https://MatthewBJane.github.io/opensynthesis/contribute) page. 
+To contribute to OpenSynthesis, follow the steps below:
+1. Create an edited version of the markdown file located in `templates/post_template.md`.
+2. Submit a pull request to add the edited file to the `source/_posts` path. File name should follow: FirstAuthorLastNameYEAR.md (e.g., jane2023.md).
+3. I will then review and then merge.
+
+Alternative way to submit a dataset:
+1. Create an edited version of the markdown file located in `templates/post_template.md`.
+2. Email me a text file or `.md` file (email: matthew.jane@uconn.edu).
 
 ### Previewing the demos page locally
 
