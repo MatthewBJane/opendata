@@ -10,7 +10,7 @@ Have a dataset to submit? Fill out this form: https://forms.gle/N87Dqhs73vbfoPec
 
 ## Contributing
 
-To contribute to OpenSynthesis, please see the [contributing](https://nivlab.github.io/opendata/contribute) page.
+To contribute to OpenSynthesis, please see the [contributing](https://MatthewBJane.github.io/opensynthesis/contribute) page. 
 
 ### Previewing the demos page locally
 
